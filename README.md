@@ -27,3 +27,8 @@ https://www.npmjs.com/package/applicationinsights
 Documentation for AppInsights can be found here:
 
 https://docs.microsoft.com/en-us/azure/application-insights/app-insights-nodejs-quick-start
+
+
+UPDATE :)
+
+In the meantime, you can use winston in combination with AppInsights without using `winston-azure-application-insights`. It just works :)
